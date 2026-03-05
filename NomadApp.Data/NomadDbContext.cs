@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace NomadApp.Data
 {
-    public class ApplicationDbContext : IdentityDbContext
+    public class NomadDbContext : IdentityDbContext
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+        public NomadDbContext(DbContextOptions<NomadDbContext> options)
             : base(options)
         {
         }

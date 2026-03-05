@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NomadApp", "NomadApp\NomadA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NomadApp.Data", "NomadApp.Data\NomadApp.Data.csproj", "{D590F6F0-0DDE-40B3-BA1C-FE2A6887A08A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NomadApp.Services", "NomadApp.Services\NomadApp.Services.csproj", "{CF699B9D-3E08-48E9-82C6-C05D2A851E09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D590F6F0-0DDE-40B3-BA1C-FE2A6887A08A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D590F6F0-0DDE-40B3-BA1C-FE2A6887A08A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D590F6F0-0DDE-40B3-BA1C-FE2A6887A08A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF699B9D-3E08-48E9-82C6-C05D2A851E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF699B9D-3E08-48E9-82C6-C05D2A851E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF699B9D-3E08-48E9-82C6-C05D2A851E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF699B9D-3E08-48E9-82C6-C05D2A851E09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

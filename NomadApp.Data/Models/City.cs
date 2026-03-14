@@ -1,0 +1,6 @@
+﻿namespace NomadApp.Data.Models;
+
+public class City
+{
+    
+}
